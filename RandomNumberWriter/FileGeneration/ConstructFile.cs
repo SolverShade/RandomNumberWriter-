@@ -18,7 +18,7 @@ namespace RandomNumberWriter.FileGeneration
             {              
                 if (form.saveFile.ShowDialog() == DialogResult.OK)
                 {
-                    outputFile = File.CreateText(form.saveFile.FileName);
+                    outputFile = File.CreateText(form.saveFile.FileName); //stuff
                 }               
             }
             catch(Exception ex)

@@ -11,6 +11,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/**
+* Date
+* CSC 153
+* Your Name
+* Program description
+*/
+
 namespace RandomNumberWriter
 {
     public partial class Form1 : Form
