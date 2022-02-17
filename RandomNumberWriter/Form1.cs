@@ -12,10 +12,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /**
-* Date
+* Date 2/17/2022
 * CSC 153
-* Your Name
-* Program description
+* Ramsey Mccue
+* Generates random numbers to a text file 
 */
 
 namespace RandomNumberWriter
