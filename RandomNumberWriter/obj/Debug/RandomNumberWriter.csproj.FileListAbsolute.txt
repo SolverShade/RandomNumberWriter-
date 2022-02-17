@@ -1,0 +1,10 @@
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\bin\Debug\RandomNumberWriter.exe.config
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\bin\Debug\RandomNumberWriter.exe
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\bin\Debug\RandomNumberWriter.pdb
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\obj\Debug\RandomNumberWriter.csproj.AssemblyReference.cache
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\obj\Debug\RandomNumberWriter.Form1.resources
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\obj\Debug\RandomNumberWriter.Properties.Resources.resources
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\obj\Debug\RandomNumberWriter.csproj.GenerateResource.cache
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\obj\Debug\RandomNumberWriter.csproj.CoreCompileInputs.cache
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\obj\Debug\RandomNumberWriter.exe
+C:\Users\HarambeCrompten\source\repos\WinUI\RandomNumberWriter\obj\Debug\RandomNumberWriter.pdb
